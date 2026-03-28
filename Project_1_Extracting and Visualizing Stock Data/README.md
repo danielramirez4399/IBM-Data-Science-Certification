@@ -1,7 +1,10 @@
-# Project 1 – Extracting and Visualizing Stock Data
+# 📊 Stock Data Analysis & Visualization
 
-## 🧩 Overview
-Extraction of essential data from a dataset and displaying it as a necessary part of data science, to make correct decisions based on the data. In this project, i extracted some stock data, then i displayed it in a graph.
+## 🧩 Problem Statement
+Financial markets generate large volumes of data that require processing and visualization to identify trends and support decision-making.  
+This project focuses on extracting, cleaning, and visualizing stock market data to explore patterns in asset behavior.
+
+---
 
 ## 📊 Datasets
 - **Name:** Tesla stock data
@@ -12,6 +15,8 @@ Extraction of essential data from a dataset and displaying it as a necessary par
 - **Source:** (https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html)
 - **Format:** HTML
 
+---
+
 ## ⚙️ Tools and Libraries
 - Python
 - Jupyter Notebook
@@ -20,11 +25,42 @@ Extraction of essential data from a dataset and displaying it as a necessary par
 - BeautifulSoup
 - plotly
 
-## 🚀 Key Steps
-1. Data extraction 
-2. Webscraping
-3. Use of yfinance
-4. Data plots
+---
+
+## ⚙️ Methodology
+
+### 1. Data Extraction
+- Automated extraction of stock data using Python
+
+### 2. Data Cleaning & Preparation
+- Handling missing values
+- Formatting time series data
+- Structuring datasets for analysis
+
+### 3. Exploratory Data Analysis (EDA)
+- Trend analysis over time
+- Comparison of stock performance
+
+### 4. Data Visualization
+- Time series plots
+- Comparative visualizations using matplotlib
+
+---
+
+## 📊 Key Insights
+- Identified trends in stock price movements over time
+- Detected volatility patterns across different assets
+- Highlighted periods of significant market changes
+
+---
+
+## 🚀 Outcome
+This project demonstrates the ability to:
+- Extract and process real-world financial data
+- Perform exploratory data analysis
+- Generate visual insights for decision-making
+
+---
 
 ## ✅ Results
 <img width="1147" height="478" alt="image" src="https://github.com/user-attachments/assets/b7cfa79c-336d-412b-bb47-277540848a78" />
