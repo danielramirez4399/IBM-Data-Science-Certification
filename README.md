@@ -1,27 +1,46 @@
-# IBM-Data-Science-Certification
+# IBM Data Science Professional Certificate Portfolio
 
-This repository contains the projects completed as part of the **IBM Data Science Professional Certificate**.  
-Each folder includes the project notebook, datasets, and a detailed README describing the objectives and results.
+## About Me
+
+Hello, I'm Daniel Ramírez, a Chemical Engineer from Colombia with training in **Data Science through the IBM Data Science Professional Certificate**.
+
+My background in engineering has strengthened my analytical thinking, problem-solving abilities, and data-driven decision-making skills. This repository showcases projects developed throughout the certification program, demonstrating practical applications of data analysis, visualization, SQL, machine learning, and dashboard development.
 
 ---
 
 ## 📁 Repository Structure
 
-- **Project_1_Extracting and Visualizing Stock Data**
-- **Project_2_Understanding - Loading - Executing SQL queries to databases**
-- **Project_3_House Sales in King County - USA**
+- **Project_1_Stock_Data_Analysis**
+- **Project_2_SQL_Database_Analysis**
+- **Project_3_House_Sales_Prediction**
+- **Project_4_Automobile_Recession_Analysis**
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Applied
 
-- Python programming  
-- Data cleaning and wrangling  
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Data visualization and dashboards  
-- Machine learning fundamentals  
-- Jupyter Notebook workflow  
-- GitHub documentation
+| Area | Tools |
+|--------|--------|
+| Data Analysis | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Databases | SQL |
+| Machine Learning | Scikit-Learn |
+| Version Control | Git, GitHub |
+
+---
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
+- Jupyter Notebook
+- Scikit-Learn
+- Git
+- GitHub
 
 ---
 
@@ -33,6 +52,5 @@ To document and share my learning progress throughout the IBM Data Science certi
 
 ## 📬 Contact
 
-**Daniel Fernando Ramírez Olivar**  
-📍 Colombia  
-🔗 [www.linkedin.com/in/danielramirezolivar](www.linkedin.com/in/danielramirezolivar)
+**Daniel Ramírez**   
+🔗 [LinkedIn](https://www.linkedin.com/in/danielramirezolivar)
