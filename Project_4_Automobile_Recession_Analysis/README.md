@@ -50,7 +50,7 @@ The project includes both exploratory data analysis and the development of an in
 
   - Seaborn
 
-- Folium
+  - Folium
 
 
 
@@ -162,4 +162,4 @@ This project demonstrates the ability to:
 
 ## ✅ Results
 <img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/81845a5d-d047-46b8-8303-50911f942ca9" />
-<img width="1365" height="767" alt="YearlyReportgraphs" src="https://github.com/user-attachments/assets/65fe0af8-3241-4a9b-9afa-cc1e4caea69e" />
+<img width="1111" height="488" alt="image" src="https://github.com/user-attachments/assets/cae3fa45-e584-4294-8994-5dfb11feb190" />
